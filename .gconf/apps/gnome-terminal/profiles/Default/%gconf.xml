@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="background_darkness" mtime="1410601161" type="float" value="1"/>
+	<entry name="background_type" mtime="1410601161" type="string">
+		<stringvalue>transparent</stringvalue>
+	</entry>
+	<entry name="font" mtime="1410601161" type="string">
+		<stringvalue>Ubuntu Mono 11</stringvalue>
+	</entry>
+	<entry name="use_system_font" mtime="1410601161" type="bool" value="false"/>
+	<entry name="use_theme_colors" mtime="1410601161" type="bool" value="false"/>
+	<entry name="palette" mtime="1410601161" type="string">
+		<stringvalue>#000000000000:#CCCC00000000:#4E4E9A9A0606:#FDFD97971F1E:#34346565A4A4:#757550507B7B:#0000A8A8C6C6:#C7ADBE5BBE5B:#555557575353:#F9F926267271:#6BCFAAAA3333:#E6E6DBDB7474:#3838ADADD8D8:#AEAE8181FFFF:#3434E2E2E2E2:#88888A8A8585</stringvalue>
+	</entry>
+	<entry name="alternate_screen_scroll" mtime="1410601161" type="bool" value="true"/>
+	<entry name="background_color" mtime="1410601161" type="string">
+		<stringvalue>#1F1F24243333</stringvalue>
+	</entry>
+	<entry name="visible_name" mtime="1410601161" type="string">
+		<stringvalue>Default</stringvalue>
+	</entry>
+	<entry name="bold_color" mtime="1410601161" type="string">
+		<stringvalue>#000000000000</stringvalue>
+	</entry>
+	<entry name="foreground_color" mtime="1410601161" type="string">
+		<stringvalue>#C2C2B7B79090</stringvalue>
+	</entry>
+</gconf>
